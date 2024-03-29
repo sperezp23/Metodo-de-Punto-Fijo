@@ -86,4 +86,4 @@ while E> epsilon and i<=No:
     alfa = E
     
 if i > No:
-    print("\nEl método ha fallado luego de la iteración No =", i+1)    
+    print(f"\nEl método ha fallado luego de la iteración No ={i+1}")    
